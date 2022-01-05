@@ -1,3 +1,7 @@
 NEW README
 
 THIS IS WRITEN IN VISUAL CODE
+
+## new feature
+
+This is a new FEATURE ON A NEW BRANCH
